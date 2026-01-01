@@ -16,7 +16,6 @@ Un panel analítico diseñado para monitorear el rendimiento comercial, permitie
 
 ### Vista Previa 📸 
 ![Dashboard Overview](./media/dashboard-preview.png)
-*(Sube aquí una captura de tu dashboard en la carpeta media y renómbrala a dashboard-preview.png)*
 
 ### Tecnologías Aplicadas 🛠️ 
 - **Power Query (ETL)**: Limpieza y transformación de datos crudos de ventas.
@@ -35,7 +34,7 @@ Un panel analítico diseñado para monitorear el rendimiento comercial, permitie
 
 ## Cómo ver el Dashboard interactivo 🚀 
 
-1.  **Opción A (Recomendada)**: [Ver Online (Enlace Público)](#) *(Si tienes un link de 'Publish to Web', pégalo aquí)*.
+1.  **Opción A (Recomendada)**: [Ver Online (Enlace Público)](#) .
 2.  **Opción B (Local)**:
     - Descarga el archivo `.pbix` de la carpeta `dashboards/`.
     - Ábrelo con [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
