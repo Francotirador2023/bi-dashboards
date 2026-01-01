@@ -1,8 +1,8 @@
-# 📊 Dashboards Interactivos de Business Intelligence
+# Dashboards Interactivos de Business Intelligence 📊 
 
 Bienvenido a mi colección de soluciones de BI. Este repositorio aloja proyectos completos desarrollados en **Power BI**, demostrando habilidades en modelado de datos, DAX avanzado y diseño de UX centrado en la toma de decisiones.
 
-## 📁 Estructura del Repositorio
+## Estructura del Repositorio 📁 
 
 - `dashboards/`: Archivos fuente `.pbix` (Power BI Desktop).
 - `data/`: Datasets originales (Excel/CSV) utilizados para los modelos.
@@ -10,15 +10,15 @@ Bienvenido a mi colección de soluciones de BI. Este repositorio aloja proyectos
 
 ---
 
-## 🏆 Proyecto Destacado: Dashboard de Ventas "Porky Muy"
+## Proyecto Destacado: Dashboard de Ventas "Porky Muy" 🏆 
 
 Un panel analítico diseñado para monitorear el rendimiento comercial, permitiendo a los gerentes identificar tendencias de ingresos, productos estrella y comportamiento del cliente.
 
-### 📸 Vista Previa
+### Vista Previa 📸 
 ![Dashboard Overview](./media/dashboard-preview.png)
 *(Sube aquí una captura de tu dashboard en la carpeta media y renómbrala a dashboard-preview.png)*
 
-### 🛠️ Tecnologías Aplicadas
+### Tecnologías Aplicadas 🛠️ 
 - **Power Query (ETL)**: Limpieza y transformación de datos crudos de ventas.
 - **Modelado de Datos**: Esquema Estrella (Star Schema) para optimizar el rendimiento.
 - **DAX Avanzado**:
@@ -26,14 +26,14 @@ Un panel analítico diseñado para monitorear el rendimiento comercial, permitie
     - Medidas dinámicas para KPIs.
 - **Visualización**: Diseño de alto contraste (Dark Mode) con navegación intuitiva.
 
-### 💡 Insights Clave
+### Insights Clave 💡 
 1.  **Análisis Temporal**: Capacidad de profundizar (Drill-down) de vista anual a diaria.
 2.  **Segmentación**: Análisis de ingresos cruzado por "Doctor" (Vendedor) y Tipo de Mascota.
 3.  **KPIs**: Indicadores claros de Ingresos Totales y Servicios Realizados.
 
 ---
 
-## 🚀 Cómo ver el Dashboard interactivo
+## Cómo ver el Dashboard interactivo 🚀 
 
 1.  **Opción A (Recomendada)**: [Ver Online (Enlace Público)](#) *(Si tienes un link de 'Publish to Web', pégalo aquí)*.
 2.  **Opción B (Local)**:
@@ -42,7 +42,7 @@ Un panel analítico diseñado para monitorear el rendimiento comercial, permitie
 
 ---
 
-### 📬 Contacto
+### Contacto 📬 
 ¿Te interesa discutir cómo los datos pueden transformar tu negocio?
-- **LinkedIn**: [Tu Perfil](#)
-- **Email**: [Tu Email](#)
+- **LinkedIn**: www.linkedin.com/in/jony-franco-163521358 (#)
+- **Email**: francojonysenati@gmail.com (#)
