@@ -1,0 +1,13 @@
+# System
+.DS_Store
+Thumbs.db
+*$RECYCLE.BIN/
+
+# Power BI
+*.lock
+*.log
+
+# Node (for the archived react project)
+node_modules/
+dist/
+.env
