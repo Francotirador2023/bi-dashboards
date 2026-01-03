@@ -1,4 +1,4 @@
-# Dashboards Interactivos de Business Intelligence 📊 
+# Dashboards Interactivos de Business Intelligence 
 
 Bienvenido a mi colección de soluciones de BI. Este repositorio aloja proyectos completos desarrollados en **Power BI**, demostrando habilidades en modelado de datos, DAX avanzado y diseño de UX centrado en la toma de decisiones.
 
@@ -32,7 +32,7 @@ Un panel analítico diseñado para monitorear el rendimiento comercial, permitie
 
 ---
 
-## Cómo ver el Dashboard interactivo 🚀 
+## Cómo ver el Dashboard interactivo 
 
 1.  **Opción A (Recomendada)**: [Ver Online (Enlace Público)](#) .
 2.  **Opción B (Local)**:
